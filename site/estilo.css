@@ -1,5 +1,5 @@
 body{
-    background-color: white;
+    background-color: yellowgreen;
 }
 h1{
     margin-left:40%;
@@ -35,4 +35,34 @@ h1{
     height:200px;
     border-radius: 5px;
     margin-left: 10px;
+}
+.img_pri2{
+    width: 200px;
+    height:200px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+.img_pri3{
+    width: 200px;
+    height:200px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+.img_pri4{
+    width: 200px;
+    height:200px;
+    border-radius: 5px;
+    margin-left: 10px;  
+}
+.img_pri5{
+    width: 200px;
+    height:200px;
+    border-radius: 5px;
+    margin-left: 10px;  
+}
+.img_pri6{
+    width: 200px;
+    height:200px;
+    border-radius: 5px;
+    margin-left: 10px;  
 }
