@@ -19,7 +19,6 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
- 
     margin-top: 5%;
 }
 
@@ -50,6 +49,17 @@ h1 {
     transition: all .5s;
     transform-style: preserve-3d;
 }
+.img_pri7, .img_pri8{
+    width: 200px;
+    height: 250px;
+    border-radius: 5px;
+    background-color: #a7e9af;
+    transform: rotateY(-180deg);
+    transition: all .5s;
+    transform-style: preserve-3d;
+    display: none;
+}
+
 
 @media (max-width: 768px) {
     .container-imagens {
@@ -80,6 +90,7 @@ h1 {
         margin-left: auto;
         margin-right: auto;
     }
+    
     h1{
         font-size: 30px; 
         margin-left: 10%;
